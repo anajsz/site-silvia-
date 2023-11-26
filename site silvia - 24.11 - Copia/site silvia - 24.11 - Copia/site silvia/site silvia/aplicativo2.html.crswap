@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tutorial Speech Buddy</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Tutorial Speech Buddy</h1>
+    </header>
+
+    <section id="intro" style="text-align: center;">
+        <img src="speech buddy - app2.png" alt="Speech Buddy App" style="width: 300px;">
+        <h2>O que é o Speech Buddy?</h2>
+        <p>O Speech Buddy é um aplicativo inovador desenvolvido para auxiliar pessoas com dificuldades na fala, como autismo ou paralisia cerebral. Utilizando uma combinação de símbolos, imagens e texto gerado por voz, o aplicativo visa proporcionar uma comunicação eficaz e personalizada. Com uma biblioteca extensa de símbolos e a capacidade de personalizar vocabulários, o Speech Buddy destaca-se como uma ferramenta inclusiva, capacitando usuários a superar barreiras linguísticas e expressar-se de maneira autônoma. Este aplicativo não apenas supre limitações na fala, mas também promove a expressão individual e a conexão emocional, tornando-se um catalisador para a inclusão através da tecnologia.</p>
+    </section>
+
+    <section id="como-funciona">
+        <h2>Como Funciona</h2>
+        <p>O Speech Buddy utiliza uma interface intuitiva e amigável. Aqui está um guia passo a passo:</p>
+
+        <ol>
+            <li><strong>Registro/Login:</strong> Faça o registro no aplicativo ou faça o login se já tiver uma conta.</li>
+            <li><strong>Criação de Perfil:</strong> Crie um perfil para o usuário, personalizando as configurações conforme necessário.</li>
+            <li><strong>Adição de Símbolos e Imagens:</strong> Adicione símbolos e imagens relevantes para facilitar a comunicação.</li>
+            <li><strong>Criação de Frases:</strong> Construa frases utilizando símbolos, imagens e/ou texto gerado por voz.</li>
+            <li><strong>Comunicação:</strong> Utilize as frases criadas para se comunicar de maneira eficaz.</li>
+        </ol>
+    </section>
+
+    <section id="download">
+        <h2>Download do Speech Buddy</h2>
+        <p>Para começar, faça o download do Speech Buddy no seu dispositivo:</p>
+        <a href="https://apps.apple.com/ph/app/mylo-speech-buddy-for-autism/id6450289312?platform=iphone" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4285f4; color: #ffffff; text-decoration: none; border-radius: 5px;" >Download Speech Buddy</a>
+    </section>
+
+    <section id="suporte">
+        <h2>Suporte e Recursos</h2>
+        <p>Para obter mais informações e suporte, visite o site oficial do Speech Buddy:</p>
+        <a href="https://apps.apple.com/ph/app/my" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4285f4; color: #ffffff; text-decoration: none; border-radius: 5px;">Download Speech Buddy</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Tutorial Speech Buddy. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+
+</html>

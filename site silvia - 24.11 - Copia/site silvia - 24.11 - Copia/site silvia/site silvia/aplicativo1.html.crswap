@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tutorial Proloquo2Go</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Tutorial Proloquo2Go</h1>
+    </header>
+
+    <section id="intro" style="text-align: center;">
+        <img src="Proloquo2Go - app1.jpg" alt="Speech Buddy App" style="width: 450px;">
+        <h2>O que é o Proloquo2Go?</h2>
+        <p>O Proloquo2Go é um aplicativo inovador projetado para ajudar pessoas com dificuldades na fala, como autismo ou paralisia cerebral, a se comunicarem efetivamente. Utilizando uma interface intuitiva e personalizável, o aplicativo permite a criação de mensagens usando símbolos, imagens e texto gerado por voz.</p>
+    </section>
+
+    <section id="como-funciona">
+        <h2>Como Funciona</h2>
+        <p>O Proloquo2Go facilita a comunicação através dos seguintes passos:</p>
+
+        <ol>
+            <li><strong>Configuração Inicial:</strong> Faça o download e instale o Proloquo2Go no seu dispositivo. Após a instalação, siga as instruções para configurar o aplicativo de acordo com as necessidades do usuário.</li>
+            <li><strong>Personalização do Vocabulário:</strong> O Proloquo2Go oferece uma ampla variedade de símbolos e imagens que podem ser personalizados para atender às preferências e necessidades individuais. Adicione ou remova categorias e palavras conforme necessário.</li>
+            <li><strong>Criação de Frases:</strong> Utilize a interface do aplicativo para construir frases. Isso pode ser feito selecionando símbolos, imagens ou digitando texto diretamente. As frases podem ser organizadas em botões ou categorias para fácil acesso.</li>
+            <li><strong>Voz Gerada por Texto:</strong> O Proloquo2Go possui recursos de voz gerada por texto que transformam as mensagens escritas em voz. Isso permite que o usuário se comunique de forma audível.</li>
+            <li><strong>Exploração e Prática:</strong> Encoraje o usuário a explorar o aplicativo e praticar a comunicação. O Proloquo2Go é projetado para ser intuitivo, permitindo que os usuários aprendam e se familiarizem com o aplicativo ao longo do tempo.</li>
+        </ol>
+    </section>
+
+    <section id="download">
+        <h2>Download do Proloquo2Go</h2>
+        <p>Para começar, faça o download do Proloquo2Go no seu dispositivo:</p>
+        <a href="https://apps.apple.com/ph/app/mylo-speech-buddy-for-autism/id6450289312?platform=iphone" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4285f4; color: #ffffff; text-decoration: none; border-radius: 5px;" >Download Speech Buddy</a>
+    </section>
+
+    <section id="suporte">
+        <h2>Suporte e Recursos</h2>
+        <p>Para obter mais informações, tutoriais e suporte, visite o site oficial do Proloquo2Go:</p>
+        <a href="https://www.assistiveware.com/" target="_blank">Proloquo2Go - Site Oficial</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Tutorial Proloquo2Go. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+
+</html>
